@@ -1,1 +1,1 @@
-# texas-holdem-typescript
+# Texas Holdem Online Multiplayer Game
