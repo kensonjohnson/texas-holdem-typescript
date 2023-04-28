@@ -3,6 +3,7 @@ import { defineConfig } from "vite";
 import Unfonts from "unplugin-fonts/vite";
 
 export default defineConfig({
+  base: "/texas-holdem-typescript/",
   plugins: [
     Unfonts({
       // Google Fonts API V2
